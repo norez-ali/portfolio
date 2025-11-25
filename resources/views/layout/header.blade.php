@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Perez - Personal Portfolio HTML Template</title>
+    <title>Norez- Personal Portfolio</title>
     <meta name="AdsBot-Google" content="noindex follow" />
     <meta name="description" content="Norez - Personal Portfolio ">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -46,12 +46,12 @@
 
                 <div class="header-border-bottom d-flex align-items-center justify-content-between flex-grow-1">
 
-                    <a href="index.html">
+                    <a href="{{ route('home') }}">
                         <img src="assets/images/logo/logo.png" alt="logo">
                     </a>
 
                     <!-- Link Start -->
-                    <a href="contact.html"
+                    <a href="{{ route('contact') }}"
                         class="d-flex align-items-center flex-wrap fw-bold text-dark lh-1 contact-link hover-text-white">Let’s
                         Talk
                         <span class="animate-arrow-up">
