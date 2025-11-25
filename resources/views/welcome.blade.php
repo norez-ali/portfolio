@@ -722,19 +722,7 @@
                                 </svg>
                             </span>
                         </button>
-                        <button class="tab-btn tab-btn justify-content-between align-items-center d-inline-flex"
-                            data-bs-toggle="pill" data-bs-target="#awards_tab">
-                            Awards
-                            <span class="inline-block animate-arrow-up">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M7 17L17 7" stroke="currentColor" stroke-opacity="0.9" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round"></path>
-                                    <path d="M7 7H17V17" stroke="currentColor" stroke-opacity="0.9" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round"></path>
-                                </svg>
-                            </span>
-                        </button>
+
                     </div>
                 </div>
 
@@ -815,57 +803,44 @@
 
                                 <div
                                     class="experience-tab-item d-flex flex-wrap flex-column gap-8 justify-content-between">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/216
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">01/2025
                                         –
-                                        Running</span>
+                                        03/25</span>
                                     <div>
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Lead
-                                            digital
-                                            marketer
+                                            UnitSol</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Laravel Intern
                                         </h4>
                                     </div>
                                 </div>
 
                                 <div
                                     class="experience-tab-item d-flex flex-wrap flex-column gap-8 justify-content-between">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/2008
-                                        – 07/2011</span>
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">04/2025
+                                        – 08/2025</span>
                                     <div>
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">JavaScript
-                                            developer
+                                            UnitSol</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Junior Laravel
+                                            Developer
                                         </h4>
                                     </div>
                                 </div>
 
                                 <div
                                     class="experience-tab-item d-flex flex-wrap flex-column gap-8 justify-content-between">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/2008
-                                        – 07/2011</span>
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">09/2025
+                                        – Running</span>
                                     <div>
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Product
-                                            designer
+                                            Xlogic Solutions</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Junior Laravel
+                                            |Wordpress Developer
                                         </h4>
                                     </div>
                                 </div>
 
-                                <div
-                                    class="experience-tab-item d-flex flex-wrap flex-column gap-8 justify-content-between">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/2008
-                                        – 07/2011</span>
-                                    <div>
-                                        <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">UX
-                                            researcher
-                                        </h4>
-                                    </div>
-                                </div>
+
 
                             </div>
                         </div>
@@ -877,38 +852,36 @@
                             <div class="education-tab-contents">
 
                                 <div class="education-tab-item d-flex flex-wrap">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">003/2008
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">09/2018
                                         –
-                                        07/2011</span>
+                                        09/2020</span>
                                     <div class="flex-1">
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">BA Business
-                                            Management
+                                            Government Islamia College, Sangla Hill</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">Fsc. Pre Medical
                                         </h4>
                                     </div>
                                 </div>
 
                                 <div class="education-tab-item d-flex flex-wrap">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/2008
-                                        – 07/2011</span>
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">09/2022
+                                        – 09/2024</span>
                                     <div class="flex-1">
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">BA Business
-                                            Management
+                                            Virtual University of Pakistan</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">ADP Computer
+                                            Science
                                         </h4>
                                     </div>
                                 </div>
 
                                 <div class="education-tab-item d-flex flex-wrap">
-                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">03/2008
-                                        – 07/2011</span>
+                                    <span class="text-sm fw-normal font-Inter leading-tight text-black-text-800">09/2024
+                                        – 09/2026</span>
                                     <div class="flex-1">
                                         <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Axtra</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">BA Business
-                                            Management
+                                            Virtual University of Pakistan</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-2xl text-dark">BS Computer Science
                                         </h4>
                                     </div>
                                 </div>
@@ -923,130 +896,90 @@
                             <div class="skills-tab-contents">
 
                                 <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/vs-code.png" alt="icons">
+                                    {{-- <img class="items-start" src="assets/images/skills/vs-code.png" alt="icons"> --}}
                                     <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">React JS
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Laravel
                                         </h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(90%)</p>
+                                        {{-- <p class="text-sm fw-normal font-Inter leading-none text-dark">(90%)</p> --}}
                                     </div>
                                 </div>
 
 
                                 <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/figma.png" alt="icons">
+                                    {{-- <img class="items-start" src="assets/images/skills/figma.png" alt="icons"> --}}
                                     <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Figma</h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(70%)</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">MVC Archtecture</h4>
+                                        {{-- <p class="text-sm fw-normal font-Inter leading-none text-dark">(70%)</p> --}}
                                     </div>
                                 </div>
 
                                 <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/framer.png" alt="icons">
                                     <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Framer</h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(80%)</p>
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Blade</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Restful APIs</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">MySQL</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Redis</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">AJAX</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">HTML5 / CSS3 / JS
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Bootstrap 5 /
+                                            Tailwind
+                                            CSS</h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Git/ GitHub
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">PostMan API
+                                        </h4>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
+                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
+                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">WordPress Plugin
+                                            Development
+                                        </h4>
                                     </div>
                                 </div>
 
-                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/framer.png" alt="icons">
-                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Framer</h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(80%)</p>
-                                    </div>
-                                </div>
 
-                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/framer.png" alt="icons">
-                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Framer</h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(80%)</p>
-                                    </div>
-                                </div>
 
-                                <div class="d-flex flex-wrap gap-4 align-items-start skills-tab-item">
-                                    <img class="items-start" src="assets/images/skills/framer.png" alt="icons">
-                                    <div class="flex flex-wrap gap-1 flex-1 flex-col">
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">Framer</h4>
-                                        <p class="text-sm fw-normal font-Inter leading-none text-dark">(80%)</p>
-                                    </div>
-                                </div>
+
 
 
                             </div>
                         </div>
 
-                        <div id="awards_tab" class="tab-pane fade">
-                            <h4 class="text-dark text-2xl based-in-german-title-tab fw-bold font-Syne">Awards</h4>
 
-                            <div class="awards-tab-contents">
-
-                                <div class="d-flex flex-wrap flex-column awards-tab-item">
-
-                                    <div class="d-flex align-items-start justify-content-between">
-                                        <img src="assets/images/awards/w-dot.png" alt="icons">
-                                        <span class="fw-normal text-sm font-Inter text-black-text-800">2018</span>
-                                    </div>
-
-                                    <div>
-                                        <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Winner</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">01X
-                                            Developer Award
-                                        </h4>
-                                    </div>
-                                </div>
-
-                                <div class="d-flex flex-wrap flex-column awards-tab-item">
-
-                                    <div class="d-flex align-items-start justify-content-between">
-                                        <img src="assets/images/awards/webby.png" alt="icons">
-                                        <span class="fw-normal text-sm font-Inter text-black-text-800">2018</span>
-                                    </div>
-
-                                    <div>
-                                        <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Winner</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">01X
-                                            Developer Award
-                                        </h4>
-                                    </div>
-                                </div>
-
-                                <div class="d-flex flex-wrap flex-column awards-tab-item">
-
-                                    <div class="d-flex align-items-start justify-content-between">
-                                        <img src="assets/images/awards/fwa.png" alt="icons">
-                                        <span class="fw-normal text-sm font-Inter text-black-text-800">2018</span>
-                                    </div>
-
-                                    <div>
-                                        <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Winner</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">01X
-                                            Developer Award
-                                        </h4>
-                                    </div>
-                                </div>
-
-                                <div class="d-flex flex-wrap flex-column awards-tab-item">
-
-                                    <div class="d-flex align-items-start justify-content-between">
-                                        <img src="assets/images/awards/wordpress.png" alt="icons">
-                                        <span class="fw-normal text-sm font-Inter text-black-text-800">2018</span>
-                                    </div>
-
-                                    <div>
-                                        <p class="dot text-lg fw-normal font-sans leading-7 text-dark position-relative">
-                                            Winner</p>
-                                        <h4 class="fw-bold font-Syne leading-normal text-xl text-dark">01X
-                                            Developer Award
-                                        </h4>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
 
                     </div>
 
