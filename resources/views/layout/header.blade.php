@@ -2,7 +2,6 @@
 <html class="no-js" lang="en">
 
 
-<!-- Mirrored from www.hiveart.xyz/perez-bootstrap/light-version/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Nov 2025 09:59:44 GMT -->
 
 <head>
     <meta charset="utf-8" />
@@ -141,7 +140,7 @@
 
                         </li>
                         <li class="offcanvas-menu-item">
-                            <a href="projects.html"
+                            <a href="{{ route('projects') }}"
                                 class="text-white text-xl fw-bold font-Syne leading-none d-flex flex-wrap align-items-center justify-content-between offcanvas-menu-link">Project
                                 <span class="d-inline-block animate-arrow-up">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none"

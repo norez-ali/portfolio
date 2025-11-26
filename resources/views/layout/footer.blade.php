@@ -172,6 +172,5 @@
 </body>
 
 
-<!-- Mirrored from www.hiveart.xyz/perez-bootstrap/light-version/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Nov 2025 10:00:08 GMT -->
 
 </html>

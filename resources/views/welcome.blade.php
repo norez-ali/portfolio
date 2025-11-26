@@ -52,7 +52,8 @@
 
                             <!-- Link Start -->
                             <span data-aos="fade-right" data-aos-delay="1200">
-                                <a href="projects.html" class="d-flex align-items-center flex-wrap btn-primary-outline">
+                                <a href="{{ route('projects') }}"
+                                    class="d-flex align-items-center flex-wrap btn-primary-outline">
                                     My Work
                                     <span class="animate-arrow-up">
                                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
@@ -253,7 +254,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         DB design & <br /> Optimization
 
@@ -328,7 +329,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         Frontned <br /> Integration
 
@@ -372,7 +373,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         Restful <br /> APIs
 
@@ -435,7 +436,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         Custom Web <br /> development
 
@@ -495,7 +496,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         Maintainance & <br /> support
                                         <span class="animate-arrow-up">
@@ -540,7 +541,7 @@
 
                                 <!-- Icon End -->
                                 <h4>
-                                    <a href="projects.html"
+                                    <a href="{{ route('contact') }}"
                                         class="d-flex flex-wrap align-items-end justify-content-between fw-bold text-xl font-Syne service-card-link">
                                         Auth &<br /> Security
                                         <span class="animate-arrow-up">
@@ -1015,21 +1016,21 @@
 
                 <div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="600">
                     <div class="rounded-20 overflow-hidden mb-6">
-                        <img src="assets/images/projects/project1.png" alt="project1">
+                        <img src="assets/images/projects/project5.jpg" alt="project1">
                     </div>
                     <div class="d-flex flex-wrap flex-column gap-3">
                         <div class="d-flex flex-wrap gap-2">
                             <a class="text-xs fw-medium font-Inter leading-none px-4 rounded-40 portfolio-tag-link"
-                                href="projects.html">APP</a>
+                                href="{{ route('projects') }}">WEB</a>
                             <a class="text-xs fw-medium font-Inter leading-none px-4 rounded-40 portfolio-tag-link"
-                                href="projects.html">DEVELOPMENT</a>
+                                href="{{ route('projects') }}">DEVELOPMENT</a>
 
                         </div>
                         <div class="d-flex flex-wrap align-items-center justify-content-between text-dark portfolio-title">
                             <h4 class="fw-bold font-Syne text-center leading-10 portfolio-link">
-                                <a class="transition-all" href="project-details.html">Basinik Finance App</a>
+                                <a class="transition-all" href="{{ route('projects') }}">Educrat LMS</a>
                             </h4>
-                            <a class="animate-arrow-up" href="project-details.html">
+                            <a class="animate-arrow-up" href="{{ route('projects') }}">
                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1047,22 +1048,22 @@
 
                 <div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="800">
                     <div class="rounded-20 overflow-hidden mb-6">
-                        <img src="assets/images/projects/project2.png" alt="project1">
+                        <img src="assets/images/projects/project6.jpg" alt="project1">
                     </div>
                     <div class="d-flex flex-wrap flex-column gap-3">
                         <div class="d-flex flex-wrap gap-2">
                             <a class="text-xs fw-medium font-Inter leading-none px-4 rounded-40 portfolio-tag-link"
-                                href="projects.html">APP</a>
+                                href="{{ route('projects') }}">WEB</a>
                             <a class="text-xs fw-medium font-Inter leading-none px-4 rounded-40 portfolio-tag-link"
-                                href="projects.html">DEVELOPMENT</a>
+                                href="{{ route('projects') }}">DEVELOPMENT</a>
 
                         </div>
                         <div class="d-flex flex-wrap align-items-center justify-content-between text-dark portfolio-title">
                             <h4 class="fw-bold font-Syne text-center leading-10 portfolio-link">
-                                <a class="transition-all" href="project-details.html">Oxilex Dashboard
-                                    design</a>
+                                <a class="transition-all" href="{{ route('projects') }}">Social Media App
+                                </a>
                             </h4>
-                            <a class="animate-arrow-up" href="project-details.html">
+                            <a class="animate-arrow-up" href="{{ route('projects') }}">
                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1082,7 +1083,7 @@
 
             <div class="col-12 mt-12" data-aos="fade-up" data-aos-delay="600">
                 <div class="d-flex">
-                    <a href="projects.html"
+                    <a href="{{ route('projects') }}"
                         class="d-flex align-items-center justify-content-center flex-wrap btn-primary flex-grow-1">
                         View All Project
                         <span class="inline-block ml-3 animate-arrow-up">
